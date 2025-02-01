@@ -1,5 +1,5 @@
 # 33_StiffenHacking
-# EyeType Assistant
+# OptiLink
 
 An assistive typing application designed for ALS patients, enabling text input through eye movement tracking and AI-powered predictive text.
 
