@@ -37,3 +37,24 @@ An assistive typing application designed for ALS patients, enabling text input t
    - Integrates Google Gemini for intelligent text prediction
    - Generates contextual sentence suggestions
    - Learns from user input patterns
+
+## Requirements 
+opencv-python
+dlib
+numpy
+pillow
+pyttsx3
+geocoder
+twillio
+dotenv
+google=generativeai
+azure-cognitiveservices-speech
+requests
+sounddevice
+soundfile
+
+## How to run
+1. Install all required dependencies
+2. Create .env file with required details
+3. run emotionalTTS_server.py
+4. run gaze_tracking_with_ui_1.py
