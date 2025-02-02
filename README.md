@@ -11,6 +11,7 @@ An assistive typing application designed for ALS patients, enabling text input t
 - AI-powered predictive text using Gemini
 - User-friendly GUI
 - Text-to-Speech with emotion detection
+- SOS signal with geolocation
 
 ## Technical Requirements
 
@@ -28,10 +29,11 @@ An assistive typing application designed for ALS patients, enabling text input t
    - OpenCV for real-time video processing
    - Tracks eye movements to determine gaze direction
 
-2. **Split Keyboard Interface**
-   - Divided into left and right letter groups
-   - Looking at a section activates sub-menu of available letters
-   - Reduces required eye movements for letter selection
+2. **Better Keyboard Interface**
+   - Most commonly used letter at quick access
+   - Easy scroll through keyboard
+   - Contains autofill
+   - Contains SOS
 
 3. **Predictive Text**
    - Integrates Google Gemini for intelligent text prediction
