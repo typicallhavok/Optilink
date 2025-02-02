@@ -6,17 +6,17 @@ An assistive typing application designed for ALS patients, enabling text input t
 ## Features
 
 - Eye movement tracking using dlib and OpenCV
-- Intuitive split keyboard interface
-- Hierarchical letter selection system
+- Better keyboard using gaze
+- Autofill words
 - AI-powered predictive text using Gemini
-- User-friendly GUI built with PyQt
+- User-friendly GUI
+- Text-to-Speech with emotion detection
 
 ## Technical Requirements
 
 - Python 3.x
 - OpenCV
 - dlib
-- PyQt
 - CMake
 - NumPy
 - Google Gemini API
@@ -39,19 +39,19 @@ An assistive typing application designed for ALS patients, enabling text input t
    - Learns from user input patterns
 
 ## Requirements 
-opencv-python
-dlib
-numpy
-pillow
-pyttsx3
-geocoder
-twillio
-dotenv
-google=generativeai
-azure-cognitiveservices-speech
-requests
-sounddevice
-soundfile
+- opencv-python
+- dlib
+- numpy
+- pillow
+- pyttsx3
+- geocoder
+- twillio
+- dotenv
+- google=generativeai
+- azure-cognitiveservices-speech
+- requests
+- sounddevice
+- soundfile
 
 ## How to run
 1. Install all required dependencies
