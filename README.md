@@ -1,7 +1,8 @@
 # OptiLink
 
 An assistive typing application designed for ALS patients, enabling text input through eye movement tracking and AI-powered predictive text.
-[Demo](https://drive.google.com/file/d/1QxqZ243CU5L0t8J9qjV_5jJiGR6JZNq1/view?usp=sharing)
+
+Here is a [Demo](https://drive.google.com/file/d/1QxqZ243CU5L0t8J9qjV_5jJiGR6JZNq1/view?usp=sharing) of the project.
 
 ## Features
 
